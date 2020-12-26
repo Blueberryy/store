@@ -237,13 +237,13 @@
 	"Gift Request Accept"
 	{
 		"#format"			"{1:s},{2:s}"
-		"ru"				"{teamcolor}{1} {default}хочет дать вам {olive}{2}{default}. Напишите {teamcolor}!accept {default}чтобы принять подарок."
+		"ru"				"{teamcolor}{1} {default}хочет дать вам {olive}{2}{default}. Напишите {teamcolor}!accept{default}, чтобы принять подарок."
 	}
 
 	"Gift Waiting to accept"
 	{
 		"#format"			"{1:s}"
-		"ru"				"В ожидании пока {teamcolor}{1} {default}принимет подарок."
+		"ru"				"В ожидании пока {teamcolor}{1} {default}примет подарок."
 	}	
 
 	"Not enough credits"

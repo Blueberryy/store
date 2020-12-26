@@ -2,7 +2,6 @@
 {
 	"Store Menu Title"
 	{
-		"#format"			"{1:d},{2:s}"
 		"ru"				"Вы имеете {1} {2}."
 	}
 
@@ -28,13 +27,11 @@
 
 	"Item type not registered"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Тип предмета '{1}' не был зарегистрирован ни одним плагином."
 	}
 
 	"Not enough credits to buy"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вам не хватает {1}, чтобы купить этот предмет."
 	}
 
@@ -45,13 +42,11 @@
 
 	"Equipped item"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы надели {1}."
 	}
 
 	"Unequipped item"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы убрали {1}."
 	}
 
@@ -77,7 +72,6 @@
 
 	"Limit item uses in a round"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы можете использовать этот предмет только {1} раз за раунд."
 	}
 
@@ -88,19 +82,16 @@
 
 	"Received Credits"
 	{
-		"#format"			"{1:d},{2:s}"
 		"ru"				"Вы только что получили {1} {2}!"
 	}
 
 	"Item Purchase Confirmation"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы уверены, что хотите купить {1}?"
 	}
 
 	"Item Purchase Successful"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы купили '{olive}{1}{default}'!"
 	}
 
@@ -116,13 +107,11 @@
 	
 	"Refund Message"
 	{
-		"#format"			"{1:s},{2:d},{3:s}"
 		"ru"				"Вы сдали обратно {1} за {2} {3}."
 	}
 
 	"Item Refund Confirmation"
 	{
-		"#format"			"{1:s},{2:d},{3:s}"
 		"ru"				"Вы уверены, что хотите вернуть предмет обратно {1} за {2} {3}?"
 	}
 
@@ -183,49 +172,41 @@
 
 	"Gift Credit Confirmation"
 	{
-		"#format"			"{1:s},{2:d},{3:s}"
 		"ru"				"Вы уверены, что хотите дать {1} {2} {3}?"
 	}
 
 	"Gift Item Confirmation"
 	{
-		"#format"			"{1:s},{2:s}"
 		"ru"				"Вы уверены, что хотите дать {1} предмет {2}?"
 	}
 
 	"Drop Credit Confirmation"
 	{
-		"#format"			"{1:d},{2:s}"
 		"ru"				"Вы уверены, что хотите выбросить {1} {2}?"
 	}
 
 	"Drop Item Confirmation"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы уверены, что хотите выбросить {1}?"
 	}
 
 	"Gift Item Dropped"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы выбросили {olive}{1}{default}!"
 	}
 
 	"Gift Credits Dropped"
 	{
-		"#format"			"{1:d}{2:s}"
 		"ru"				"Вы выбросили {olive}{1}{default} {2}!"
 	}
 
 	"Gift Credits Found"
 	{
-		"#format"			"{1:d},{2:s}"
 		"ru"				"Вы нашли {olive}{1}{default} {2}!"
 	}
 
 	"Gift Item Found"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы нашли {olive}{1}{default}!"
 	}
 
@@ -236,37 +217,31 @@
 
 	"Gift Request Accept"
 	{
-		"#format"			"{1:s},{2:s}"
 		"ru"				"{teamcolor}{1} {default}хочет дать вам {olive}{2}{default}. Напишите {teamcolor}!accept{default}, чтобы принять подарок."
 	}
 
 	"Gift Waiting to accept"
 	{
-		"#format"			"{1:s}"
 		"ru"				"В ожидании пока {teamcolor}{1} {default}примет подарок."
 	}	
 
 	"Not enough credits"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вам не хватает {1}."
 	}
 
 	"Gift accepted - sender"
 	{
-		"#format"			"{1:s}"
 		"ru"				"{teamcolor}{1} {default}принял ваш подарок."
 	}
 
 	"Gift accepted - receiver"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы приняли подарок игрока {teamcolor}{1}{default}"
 	}
 
 	"Already purchased item"
 	{
-		"#format"			"{1:s}"
 		"ru"				"Вы уже купили этот предмет: {1}"
 	}
 	
